@@ -1,0 +1,26 @@
+
+
+.name{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.locality{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.cusineContainer{
+    width : 100%;
+    display: flex;
+
+}
+
+.cusineDiv{
+    border: 2px solid black;
+    height: 80%;
+    width: 30%;
+    margin: 10px;
+    font-size: 20px;
+    font-style: italic;
+}

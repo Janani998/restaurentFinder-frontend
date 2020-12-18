@@ -1,0 +1,46 @@
+.icon{
+    padding: 20px;
+}
+
+.boxContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    display:flex;
+}
+
+.cardContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 20px;
+    padding: 30px;
+    cursor: pointer;
+}
+
+.imageDiv{
+    height: 150px;
+    width:20%;
+    border : 1px solid black;
+    background-color: blanchedalmond;
+}
+
+.contents{
+    width : 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.paginationBar{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search{
+    border: 1px solid black;
+}

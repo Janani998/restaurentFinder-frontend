@@ -1,0 +1,59 @@
+.contentDisplay{
+    height : 100vh;
+    padding: 10px;
+    margin : 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.design{
+    /* margin: 10px; */
+    /* padding: 10px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.firstbox{
+    height: 20%;
+    width: 100%;
+}
+
+.secondBox{
+    height: 10%;
+    width:100%;
+}
+
+.thirdBox{
+    height: 70%;
+    width:100%;
+    padding: 5px;
+}
+
+.menu{
+    height: 20%;
+    width : 100%;
+    margin: 5px;
+}
+
+.heading{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.space{
+    margin-left: 50px;
+
+}
+
+.subHeading{
+    font-size: 20px;
+    font-weight :bold;
+}
+
+.content{
+    font-size: 18px;
+    font-weight: initial;
+    font-style: italic;
+}

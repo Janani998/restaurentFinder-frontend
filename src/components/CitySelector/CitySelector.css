@@ -1,0 +1,25 @@
+.icon{
+    padding-top: 50px;
+}
+
+.citiesDisplay{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin: 50px;
+
+}
+
+.btn{
+    /* margin: 10px; */
+    width: 50%;
+    /* height: 5px; */
+}
+
+.heading{
+    padding: 20px;
+    color : #3C5478;
+}
